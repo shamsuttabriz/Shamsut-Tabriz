@@ -4,10 +4,10 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="h-screen flex flex-col justify-center items-center text-center bg-gradient-to-br from-[#154D71]/10 via-[#1C6EA4]/10 to-[#33A1E0]/10 px-6"
+      className="relative h-screen flex flex-col justify-center items-center text-center bg-gradient-to-br from-[#154D71]/10 via-[#1C6EA4]/10 to-[#33A1E0]/10"
     >
       {/* Title */}
-      <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold text-[#154D71] leading-tight">
+      <h1 className="text-3xl md:text-5xl md:text-6xl font-bold text-[#154D71] leading-tight">
         Hi, I'm{" "}
         <span className="bg-gradient-to-r from-[#1C6EA4] to-[#33A1E0] bg-clip-text text-transparent">
           Shamsut
@@ -16,9 +16,9 @@ const Hero = () => {
       </h1>
 
       {/* Subtitle */}
-      <p className="mt-4 text-gray-700 max-w-2xl text-sm sm:text-base md:text-lg">
-        Passionate Frontend Developer & Problem Solver focused on crafting
-        responsive, user-centered web interfaces with precision and performance”
+      <p className="mt-4 text-gray-600 max-w-3xl text-sm sm:text-base md:text-lg">
+        “Passionate Full-Stack Web Developer & UI/UX enthusiast focused on creating
+        responsive, user-centered web experiences with performance and precision.”
       </p>
 
       {/* Button */}
