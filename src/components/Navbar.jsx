@@ -47,7 +47,7 @@ const Navbar = () => {
 
   return (
     <nav className="fixed w-full top-0 left-0 z-50 bg-gradient-to-r from-[#154D71] via-[#1C6EA4] to-[#33A1E0] shadow-md">
-      <div className="max-w-7xl mx-auto flex justify-between items-center px-5 md:px-0 py-2">
+      <div className="max-w-7xl mx-auto flex justify-between items-center px-5 md:px-0 py-4">
         {/* Logo */}
         <h1 className="text-xl md:text-2xl font-bold text-white cursor-pointer font-logo">
           Shamsut<span className="text-[#FFF9AF]">Tabriz</span>
