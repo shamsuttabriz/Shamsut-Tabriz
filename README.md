@@ -1,16 +1,52 @@
-# React + Vite
+# Welcome to My Portfolio repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **personal portfolio website** built with **React**, **Tailwind CSS**, and **Framer Motion**. It showcases my journey as a **Frontend Developer**, my **projects**, **achievements**, and ways to **connect** with me.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🎨 **Modern UI Design** – Clean, responsive, and visually appealing  
+- ⚛️ **Built with React** – Component-based, reusable architecture  
+- 💫 **Smooth Animations** – Powered by Framer Motion  
+- 📱 **Fully Responsive** – Looks great on mobile, tablet, and desktop  
+- 💼 **Projects Showcase** – My best work in development and design  
+- 🧠 **Achievements Section** – My programming contest milestones  
+- 📬 **Contact Me Section** – Easy access to LinkedIn, Gmail, and Twitter  
+- 🧭 **Smooth Navigation** – With React Scroll and active link highlighting  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React, Tailwind CSS, JavaScript |
+| **Animation** | Framer Motion |
+| **Icons** | React Icons |
+| **Routing & Scroll** | React Scroll |
+| **Deployment** | GitHub Pages / Vercel |
+
+---
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone git@github.com:shamsuttabriz/Shamsut-Tabriz.git
+
+# 2. Navigate into the project directory
+cd shamsut-tabriz
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+```
+
+[Live Link ](https://shamsut-tabriz.vercel.app/)

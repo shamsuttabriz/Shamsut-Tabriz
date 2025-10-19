@@ -61,7 +61,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="min-h-screen bg-gradient-to-br from-[#154D71] via-[#1C6EA4] to-[#33A1E0] text-white px-6 md:px-16 py-20 flex flex-col items-center"
+      className="bg-gradient-to-br from-[#154D71] via-[#1C6EA4] to-[#33A1E0] text-white px-6 md:px-16 py-20 flex flex-col items-center"
     >
       <motion.h2
         initial={{ opacity: 0, y: -30 }}
